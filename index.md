@@ -1,2 +1,3 @@
-# ESTE ES UN TEXTO
-El cambio que se realizo fue el agregado de un simple h1 al archivo index.md el cual estaba vacio
+# ESTE ES UN TITULO H1
+
+![Imagen de naruto](https://imgs.search.brave.com/c6unOSgzR73roBcjvASWyd9f-Urs4EtXqH0r-Naq9Z8/rs:fit:860:0:0/g:ce/aHR0cHM6Ly9pLnBp/bmltZy5jb20vb3Jp/Z2luYWxzLzNlL2E4/L2VjLzNlYThlYzhl/YmNmMTVmOWYzYzgy/NTM1N2MyMjhjNWFi/LmpwZw)

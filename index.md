@@ -5,3 +5,8 @@
 ```javascript
 const characterName = "Naruto"
 ```
+
+## CHARACTERS THAT I LIKE
+- [x] Naruto
+- [ ] Sakura
+- [x] Sasuke
